@@ -9,7 +9,6 @@ Gmail(KMITL): <a href="mailto:65010195@kmitl.ac.th">65010195@kmitl.ac.th</a><br/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chollsak&label=Profile%20views&color=0e75b6&style=flat" alt="chollsak" /> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
