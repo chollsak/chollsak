@@ -1,5 +1,5 @@
 ***WELCOME Visitors!***<br>
-![Alt Text](https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-15.gif)<br>
+<style width = "200px">![Alt Text](https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-15.gif)</style><br>
 <hr>
 <h3>But..Nothing here!, Trust me. Suiii!!</h3>
 
