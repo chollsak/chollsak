@@ -1,5 +1,5 @@
 ***WELCOME Visitors!***<br>
-<img src="https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-15.gif" width="500px">
+<img src="https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-15.gif" width="400px">
 <hr>
 <h3>But..Nothing here!, Trust me. Suiii!!</h3>
 
