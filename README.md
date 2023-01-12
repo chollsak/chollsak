@@ -32,6 +32,5 @@ Gmail(KMITL): <a href="mailto:65010195@kmitl.ac.th">65010195@kmitl.ac.th</a><br/
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chollsak&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
