@@ -2,7 +2,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/513204374101819422)](https://discord.com/users/513204374101819422)<br>
 ```python
-while i is study:
+while me is study:
   print("Let's me take a bit rest just 10 hours!")
 ```
 
