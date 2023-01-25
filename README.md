@@ -2,7 +2,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/513204374101819422)](https://discord.com/users/513204374101819422)<br>
 ```python
-while i am study:
+while i in classroom:
   sleep += 10
   knowledge = 0
 ```
