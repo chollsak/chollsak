@@ -11,7 +11,7 @@ while i in classroom:
 
 ***Gmail: <a href="mailto:koonnew8688.cookie@gamil.com">koonnew8688.cookie@gmail.com</a><br/>
 Gmail(KMITL): <a href="mailto:65010195@kmitl.ac.th">65010195@kmitl.ac.th</a><br/>
-My Portfolio(High School): <a href="https://drive.google.com/file/d/1IgECzgnJbpEEB3rvimolxEkvYlrf6oDJ/view?usp=sharing">Click Here</a>***
+My High School Portfolio: <a href="https://drive.google.com/file/d/1IgECzgnJbpEEB3rvimolxEkvYlrf6oDJ/view?usp=sharing">Click Here</a>***
 <hr>
 
 # 💻 Tech Stack:
