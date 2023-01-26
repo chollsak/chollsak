@@ -25,6 +25,8 @@ My Portfolio for work: <a href="https://www.youtube.com/watch?v=sVTy_wmn5SU">sti
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chollsak&theme=calm&hide_border=false)<br/>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chollsak&show_icons=true&locale=en&layout=compact" alt="chollsak" /></p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chollsak&theme=radical&no-frame=false&no-bg=true&margin-w=4)
