@@ -1,4 +1,5 @@
 ***WELCOME Visitors!***<br>
+<img src="https://ssl.gstatic.com/ui/v1/activityindicator/loading.gif">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/513204374101819422)](https://discord.com/users/513204374101819422)<br>
 ```python
