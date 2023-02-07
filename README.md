@@ -1,5 +1,5 @@
 ***WELCOME Visitors!***<br>
-<img src="blob:https://www.facebook.com/121476e6-f464-47ff-af79-5c84150a8526">
+<img src="https://cdn.fbsbx.com/v/t59.2708-21/329018269_1350210032469834_4828128756311541287_n.gif?_nc_cat=101&ccb=1-7&_nc_sid=041f46&_nc_eui2=AeGNDJ9CSIDiQ4lCuPFoZ0h6NVdj7FrES181V2PsWsRLX8HSXpHglo0pSrgNLhfdGT0lFzC6BJ_7Vb8RETlKaQBK&_nc_ohc=V6g5-5e-10gAX_XP_e2&_nc_oc=AQmWgTG8X48bQs9oOmDkdqZzKnti3EZqj3cSPnCcFxummRW3c0356SlctjSb7Wp7LwY&tn=4IwdnZHn_HsDQ5r2&_nc_ht=cdn.fbsbx.com&oh=03_AdR3D6F9jyttlPKFhu_aYPHCZBX1CzbxIx-my0_BaxdlrQ&oe=63E41184">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/513204374101819422)](https://discord.com/users/513204374101819422)<br>
 ```python
