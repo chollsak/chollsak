@@ -1,5 +1,5 @@
 ***WELCOME Visitors!***<br><br>
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/04de2e31234507.564a1d23645bf.gif" width="200px">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/04de2e31234507.564a1d23645bf.gif" width="100px">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/513204374101819422)](https://discord.com/users/513204374101819422)<br>
 ```python
