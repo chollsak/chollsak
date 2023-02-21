@@ -1,4 +1,4 @@
-***WELCOME Visitors!***<br>
+<center> ***WELCOME Visitors!***<br>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/04de2e31234507.564a1d23645bf.gif" width="100px">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/513204374101819422)](https://discord.com/users/513204374101819422)<br>
@@ -30,7 +30,7 @@ My Portfolio for work: <a href="https://www.youtube.com/watch?v=sVTy_wmn5SU">sti
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://64.media.tumblr.com/5984e976108a3c78b73a8c72eb78849f/aad786a7dd82d235-75/s540x810/3db362e612c6a6cfd517048feb6aa3320347b577.gifv">
+<img src="https://64.media.tumblr.com/5984e976108a3c78b73a8c72eb78849f/aad786a7dd82d235-75/s540x810/3db362e612c6a6cfd517048feb6aa3320347b577.gifv"><center>
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
