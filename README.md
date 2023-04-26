@@ -1,7 +1,6 @@
 ***WELCOME Visitors!***<br>
-<p><img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="100px"><img src="https://www.reg.kmitl.ac.th/student_event/assets/img/logo.gif" width="100px"><img src="https://media.tenor.com/GO5qZIfPvbgAAAAM/cr7manchester-united.gif" width="100px"><p>
+<center><p><img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="100px"><img src="https://www.reg.kmitl.ac.th/student_event/assets/img/logo.gif" width="100px"><img src="https://media1.giphy.com/media/VbAFrrDVGAvZu/200w.gif?cid=82a1493bayrmjypv3p8t4h7j7fxmncxn6vswg5w85zj5st3e&ep=v1_gifs_search&rid=200w.gif&ct=g" width="100px"><p></center>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/513204374101819422)](https://discord.com/users/513204374101819422)<br>
 ```python
 sleepy = 0
 knowledge = 0
@@ -26,6 +25,8 @@ print("You are too sleepy to continue. Game over!")
 
 ***Social Media Contact*** : <a href="https://www.facebook.com/chollsak/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khris bharmmano" height="30" width="40" style="max-width: 100%;"></a><a href="https://instagram.com/newxnnn.css" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khris_xp" height="30" width="40" style="max-width: 100%;"></a><br>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/513204374101819422)](https://discord.com/users/513204374101819422)<br>
+
 ***Gmail: <a href="mailto:koonnew8688.cookie@gamil.com">koonnew8688.cookie@gmail.com</a><br/>
 Gmail(KMITL): <a href="mailto:65010195@kmitl.ac.th">65010195@kmitl.ac.th</a><br/>
 My High School Portfolio: <a href="https://drive.google.com/file/d/1IgECzgnJbpEEB3rvimolxEkvYlrf6oDJ/view?usp=sharing">Click Here</a><br>
@@ -37,8 +38,6 @@ My Portfolio for work: <a href="https://www.youtube.com/watch?v=sVTy_wmn5SU">sti
 <p align="left">  </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </a></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <hr>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=chollsak&theme=calm&hide_border=false)<br/>
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chollsak&show_icons=true&locale=en&layout=compact" alt="chollsak" /></p>
 
