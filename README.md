@@ -1,11 +1,27 @@
 ***WELCOME Visitors!***<br>
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/04de2e31234507.564a1d23645bf.gif" width="100px">
+<p><img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="100px"><img src="https://www.reg.kmitl.ac.th/student_event/assets/img/logo.gif" width="100px"><img src="https://media.tenor.com/GO5qZIfPvbgAAAAM/cr7manchester-united.gif" width="100px"><p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/513204374101819422)](https://discord.com/users/513204374101819422)<br>
 ```python
-while i in classroom:
+sleepy = 0
+knowledge = 0
+
+while sleepy < 100:
+  print("You are feeling sleepy. Keep staying awake to increase your knowledge!")
+  answer = input("What is 2 + 2? ")
+  if answer == "4":
+    print("Correct! Your knowledge has increased.")
+    knowledge += 1
+  else:
+    print("Incorrect. Try again.")
+  
   sleepy += 10
-  knowledge = 0
+  knowledge -= 1
+  
+  print("Your current knowledge level is:", knowledge)
+  print("Your current sleepiness level is:", sleepy)
+
+print("You are too sleepy to continue. Game over!")
 ```
 
 ***Social Media Contact*** : <a href="https://www.facebook.com/chollsak/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khris bharmmano" height="30" width="40" style="max-width: 100%;"></a><a href="https://instagram.com/newxnnn.css" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khris_xp" height="30" width="40" style="max-width: 100%;"></a><br>
@@ -29,7 +45,7 @@ My Portfolio for work: <a href="https://www.youtube.com/watch?v=sVTy_wmn5SU">sti
 ![](https://github-profile-trophy.vercel.app/?username=chollsak&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<p align="left"><img src="https://64.media.tumblr.com/5984e976108a3c78b73a8c72eb78849f/aad786a7dd82d235-75/s540x810/3db362e612c6a6cfd517048feb6aa3320347b577.gifv"></p>
+<p align="left"><img src="https://64.media.tumblr.com/8cd66cc3a6899569e00e1f97f19a2283/24d4764c84ad722e-33/s540x810/3c086cd1976b10ced6c548b56a85b605aab0fb39.gif"></p>
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
