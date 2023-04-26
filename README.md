@@ -1,5 +1,5 @@
 ***WELCOME Visitors!***<br>
-<p align = "center"><img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="100px"><img src="https://www.reg.kmitl.ac.th/student_event/assets/img/logo.gif" width="100px"><img src="https://media1.giphy.com/media/VbAFrrDVGAvZu/200w.gif?cid=82a1493bayrmjypv3p8t4h7j7fxmncxn6vswg5w85zj5st3e&ep=v1_gifs_search&rid=200w.gif&ct=g" width="100px"><p>
+<p align = "center"><img src="https://images.squarespace-cdn.com/content/v1/5664c2f3e4b0957c43aa14f4/1627261945738-FO5OXHZT2RLNBKAFC2LD/coding.gif" width="100px"><img src="https://www.reg.kmitl.ac.th/student_event/assets/img/logo.gif" width="100px"><img src="https://media1.giphy.com/media/VbAFrrDVGAvZu/200w.gif?cid=82a1493bayrmjypv3p8t4h7j7fxmncxn6vswg5w85zj5st3e&ep=v1_gifs_search&rid=200w.gif&ct=g" width="100px"><p>
   
 ```python
 sleepy = 0
@@ -39,12 +39,11 @@ My Portfolio for work: <a href="https://www.youtube.com/watch?v=sVTy_wmn5SU">sti
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <hr>
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chollsak&show_icons=true&locale=en&layout=compact" alt="chollsak" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chollsak&show_icons=true&locale=en&layout=compact" alt="chollsak"/> <img align = "center"src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="160px"></p> 
 
-![](https://github-profile-trophy.vercel.app/?username=chollsak&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="left"><img align="center" src="https://media.tenor.com/GO5qZIfPvbgAAAAM/cr7manchester-united.gif" alt="chollsak"  width="150px"/> <img align = "center"src="https://media.tenor.com/GO5qZIfPvbgAAAAM/cr7manchester-united.gif" width="120px"> <img align = "center"src="https://media.tenor.com/GO5qZIfPvbgAAAAM/cr7manchester-united.gif" width="90px"> <img align = "center"src="https://media.tenor.com/GO5qZIfPvbgAAAAM/cr7manchester-united.gif" width="120px"> <img align = "center"src="https://media.tenor.com/GO5qZIfPvbgAAAAM/cr7manchester-united.gif" width="150px"></p> 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<p align="left"><img src="https://media.tenor.com/cEBZRTNxiHcAAAAd/newji-new-jeans.gif"></p>
+<p align="left"><img src="https://media.tenor.com/cEBZRTNxiHcAAAAd/newji-new-jeans.gif" width = "400x"> <img src="https://i0.wp.com/thumbs.gfycat.com/SpeedySameArgali-size_restricted.gif?resize=735%2C735&ssl=1" width = "225px"></p>
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
