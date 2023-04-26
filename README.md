@@ -45,7 +45,7 @@ My Portfolio for work: <a href="https://www.youtube.com/watch?v=sVTy_wmn5SU">sti
 ![](https://github-profile-trophy.vercel.app/?username=chollsak&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<p align="left"><img src="https://64.media.tumblr.com/8cd66cc3a6899569e00e1f97f19a2283/24d4764c84ad722e-33/s540x810/3c086cd1976b10ced6c548b56a85b605aab0fb39.gif"></p>
+<p align="left"><img src="https://media.tenor.com/cEBZRTNxiHcAAAAd/newji-new-jeans.gif"></p>
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
