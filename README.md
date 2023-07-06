@@ -43,7 +43,3 @@ My Portfolio for work: <a href="https://www.youtube.com/watch?v=sVTy_wmn5SU">sti
 
 <p align="left"><img align="center" src="https://media.tenor.com/GO5qZIfPvbgAAAAM/cr7manchester-united.gif" alt="chollsak"  width="150px"/> <img align = "center"src="https://media.tenor.com/GO5qZIfPvbgAAAAM/cr7manchester-united.gif" width="120px"> <img align = "center"src="https://media.tenor.com/GO5qZIfPvbgAAAAM/cr7manchester-united.gif" width="90px"> <img align = "center"src="https://media.tenor.com/GO5qZIfPvbgAAAAM/cr7manchester-united.gif" width="120px"> <img align = "center"src="https://media.tenor.com/GO5qZIfPvbgAAAAM/cr7manchester-united.gif" width="150px"></p> 
 
-<p align="left"><img src="https://media.tenor.com/cEBZRTNxiHcAAAAd/newji-new-jeans.gif" width = "400x"> <img src="https://i0.wp.com/thumbs.gfycat.com/SpeedySameArgali-size_restricted.gif?resize=735%2C735&ssl=1" width = "225px"></p>
-
----
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
