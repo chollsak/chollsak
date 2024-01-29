@@ -46,7 +46,5 @@ My Portfolio for work: <a href="https://www.youtube.com/watch?v=sVTy_wmn5SU">sti
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <hr>
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chollsak&show_icons=true&locale=en&layout=compact" alt="chollsak"/> <img align = "center"src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="160px"></p> 
-
 <p align="left"><img align="center" src="https://media.tenor.com/GO5qZIfPvbgAAAAM/cr7manchester-united.gif" alt="chollsak"  width="150px"/> <img align = "center"src="https://media.tenor.com/GO5qZIfPvbgAAAAM/cr7manchester-united.gif" width="120px"> <img align = "center"src="https://media.tenor.com/GO5qZIfPvbgAAAAM/cr7manchester-united.gif" width="90px"> <img align = "center"src="https://media.tenor.com/GO5qZIfPvbgAAAAM/cr7manchester-united.gif" width="120px"> <img align = "center"src="https://media.tenor.com/GO5qZIfPvbgAAAAM/cr7manchester-united.gif" width="150px"></p> 
 
