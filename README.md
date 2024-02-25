@@ -27,7 +27,7 @@ print("You are too sleepy to continue. Game over!")
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/513204374101819422)](https://discord.com/users/513204374101819422)<br>
 
-***Gmail: <a href="mailto:koonnew8688.cookie@gamil.com">koonnew8688.cookie@gmail.com</a><br/>
+***Gmail: <a href="mailto:chollasak.anuwareepong@gmail.com">chollasak.anuwareepong@gmail.com</a><br/>
 Gmail(KMITL): <a href="mailto:65010195@kmitl.ac.th">65010195@kmitl.ac.th</a><br/>
 My High School Portfolio: <a href="https://drive.google.com/file/d/1IgECzgnJbpEEB3rvimolxEkvYlrf6oDJ/view?usp=sharing">Click Here</a><br>
 My Portfolio for work: <a href="https://www.youtube.com/watch?v=sVTy_wmn5SU">still in development***</a>
