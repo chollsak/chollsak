@@ -8,7 +8,7 @@ let knowledge: number = 0;
 while (sleepy < 100) {
   console.log("You are feeling sleepy. Keep staying awake to increase your knowledge!");
 
-  const answer: string | null = prompt("What is 2 + 2?"); // In TypeScript, we use `prompt` for input in browser environments
+  const answer: string | null = prompt("What is 2 + 2?"); 
 
   if (answer === "4") {
     console.log("Correct! Your knowledge has increased.");
