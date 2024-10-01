@@ -1,26 +1,31 @@
 ***WELCOME Visitors! I'm Chollasak Anuwareepong***<br> 
 <p align = "center"><img src="https://images.squarespace-cdn.com/content/v1/5664c2f3e4b0957c43aa14f4/1627261945738-FO5OXHZT2RLNBKAFC2LD/coding.gif" width="100px"><img src="https://www.reg.kmitl.ac.th/student_event/assets/img/logo.gif" width="100px"><img src="https://media1.giphy.com/media/VbAFrrDVGAvZu/200w.gif?cid=82a1493bayrmjypv3p8t4h7j7fxmncxn6vswg5w85zj5st3e&ep=v1_gifs_search&rid=200w.gif&ct=g" width="100px"><p>
   
-```python
-sleepy = 0
-knowledge = 0
+```typescript
+let sleepy: number = 0;
+let knowledge: number = 0;
 
-while sleepy < 100:
-  print("You are feeling sleepy. Keep staying awake to increase your knowledge!")
-  answer = input("What is 2 + 2? ")
-  if answer == "4":
-    print("Correct! Your knowledge has increased.")
-    knowledge += 1
-  else:
-    print("Incorrect. Try again.")
-  
-  sleepy += 10
-  knowledge -= 1
-  
-  print("Your current knowledge level is:", knowledge)
-  print("Your current sleepiness level is:", sleepy)
+while (sleepy < 100) {
+  console.log("You are feeling sleepy. Keep staying awake to increase your knowledge!");
 
-print("You are too sleepy to continue. Game over!")
+  const answer: string | null = prompt("What is 2 + 2?"); // In TypeScript, we use `prompt` for input in browser environments
+
+  if (answer === "4") {
+    console.log("Correct! Your knowledge has increased.");
+    knowledge += 1;
+  } else {
+    console.log("Incorrect. Try again.");
+  }
+
+  sleepy += 10;
+  knowledge -= 1;
+
+  console.log("Your current knowledge level is:", knowledge);
+  console.log("Your current sleepiness level is:", sleepy);
+}
+
+console.log("You are too sleepy to continue. Game over!");
+
 ```
 
 ***Social Media Contact*** : <a href="https://www.facebook.com/chollsak/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" style="max-width: 100%;"></a><a href="https://instagram.com/chollsak" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" style="max-width: 100%;"></a><br>
