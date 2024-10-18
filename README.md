@@ -35,15 +35,10 @@ while (sleepy < 100) {
 console.log("You are too sleepy to continue. Game over!");
 
 ```
-
-***Social Media Contact*** : <a href="https://www.facebook.com/chollsak/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" style="max-width: 100%;"></a><a href="https://instagram.com/chollsak" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" style="max-width: 100%;"></a><br>
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/513204374101819422)](https://discord.com/users/513204374101819422)<br>
 
 ***Gmail: <a href="mailto:chollasak.anuwareepong@gmail.com">chollasak.anuwareepong@gmail.com</a><br/>
 Gmail(KMITL): <a href="mailto:65010195@kmitl.ac.th">65010195@kmitl.ac.th</a><br/>
-My High School Portfolio: <a href="https://drive.google.com/file/d/1IgECzgnJbpEEB3rvimolxEkvYlrf6oDJ/view?usp=sharing">Click Here</a><br>
-My Portfolio for work: <a href="https://www.youtube.com/watch?v=sVTy_wmn5SU">still in development***</a>
 <hr>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chollsak" alt="chollsak" /></a> </p>
