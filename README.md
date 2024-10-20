@@ -55,5 +55,4 @@ Gmail(KMITL): <a href="mailto:65010195@kmitl.ac.th">65010195@kmitl.ac.th</a><br/
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <hr>
 
-<p align="left"><img align="center" src="https://media.tenor.com/GO5qZIfPvbgAAAAM/cr7manchester-united.gif" alt="chollsak"  width="150px"/> <img align = "center"src="https://media.tenor.com/GO5qZIfPvbgAAAAM/cr7manchester-united.gif" width="120px"> <img align = "center"src="https://media.tenor.com/GO5qZIfPvbgAAAAM/cr7manchester-united.gif" width="90px"> <img align = "center"src="https://media.tenor.com/GO5qZIfPvbgAAAAM/cr7manchester-united.gif" width="120px"> <img align = "center"src="https://media.tenor.com/GO5qZIfPvbgAAAAM/cr7manchester-united.gif" width="150px"></p> 
 
