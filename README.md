@@ -49,8 +49,6 @@ Gmail(KMITL): <a href="mailto:65010195@kmitl.ac.th">65010195@kmitl.ac.th</a><br/
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chollsak&show_icons=true&locale=en" alt="chollsak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chollsak&" alt="chollsak" /></p>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <hr>
