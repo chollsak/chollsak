@@ -117,7 +117,7 @@ Gmail(KMITL): <a href="mailto:65010195@kmitl.ac.th">65010195@kmitl.ac.th</a><br/
 
 <br/>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chollsak&show_icons=true&locale=en" alt="chollsak" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chollsak&show_icons=true&locale=en" alt="chollsak" /></p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
