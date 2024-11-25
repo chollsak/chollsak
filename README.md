@@ -113,7 +113,7 @@ Gmail(KMITL): <a href="mailto:65010195@kmitl.ac.th">65010195@kmitl.ac.th</a><br/
 <br/>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chollsak&hide_border=true&layout=compact" align="center" /></div>  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chollsak&show_icons=true&locale=en&layout=compact" alt="chollsak" /></p> 
 
 <br/>  
 
